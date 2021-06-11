@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Multiple Time Slot Addon
- * Plugin URI: https://www.tychesoftwares.com/store/premium-plugins/multiple-time-slot-addon-woocommerce-booking-appointment-plugin/
- * Description: This is an addon for the Booking & Appointment Plugin for WooCommerce which lets you to select multiple time slots on a date for each product on the website.
+ * Plugin Name: Testing Addon
+ * Plugin URI: https://www.testing.com/
+ * Description: Testing Addon
  * Version: 2.5
  * Author: Tyche Softwares
  * Author URI: http://www.tychesoftwares.com/
@@ -10,7 +10,7 @@
  * WC requires at least: 3.0.0
  * WC tested up to: 4.7
  *
- * @package BKAP/Multiple-Timeslot
+ * @package BKAP/Testing
  */
 
 /**
