@@ -72,7 +72,7 @@ To do that deactivate all plugins except for WooCommerce and switch to a default
 If the issue is resolved with the default theme and all plugins deactivated, it means that one of your plugins or a theme is causing the issue. 
 You will then need to enable it one by one and test every time you do that in order to figure out which plugin is causing the issue.
 options:
-- label: I have deactivated other plugins and confirmed this bug occurs when only WooCommerce plugin is active.
+- label: I have deactivated other plugins and confirmed this bug occurs when only our plugin is active.
 - label: This bug happens with a default WordPress theme active, or [Storefront](https://woo.com/products/storefront/).
 - label: I can reproduce this bug consistently using the steps above.
 validations:
