@@ -4,7 +4,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Thanks for contributing!
+       
 
         Please provide us with the information requested in this bug report. 
         Without these details, we won't be able to fully evaluate this issue. 
