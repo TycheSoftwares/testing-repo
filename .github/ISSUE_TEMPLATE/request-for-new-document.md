@@ -2,7 +2,7 @@
 name: Request for New Document
 about: Suggest the creation of a new documentation topic that doesn't exist yet
 title: ''
-labels: ''
+labels: documentation
 assignees: ''
 
 ---
