@@ -61,7 +61,7 @@ body:
       label: Isolating the problem
       description: |
         Please try testing your site for theme and plugins conflict. 
-       options:
+     options:
         - label: I have deactivated other plugins and confirmed this bug occurs when only our plugin is active.
         - label: This bug happens with a default WordPress theme active, or [Storefront](https://woo.com/products/storefront/).
         - label: I can reproduce this bug consistently using the steps above.
