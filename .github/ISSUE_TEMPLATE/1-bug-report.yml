@@ -2,11 +2,13 @@ name: 🐞 Bug Report
 description: Report a bug if something isn't working as expected in WooCommerce Core.
 body:
   - type: markdown
+    attributes:
+      value: |
+         Please provide us with the information requested in this bug report.
   - type: checkboxes
     id: prerequisites
     attributes:
-     value: |
-       Please provide us with the information requested in this bug report. 
+     
       label: Prerequisites
       description: Please confirm these before submitting the issue.
       options:
