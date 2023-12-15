@@ -5,6 +5,8 @@ body:
   - type: checkboxes
     id: prerequisites
     attributes:
+     value: |
+       Please provide us with the information requested in this bug report. 
       label: Prerequisites
       description: Please confirm these before submitting the issue.
       options:
