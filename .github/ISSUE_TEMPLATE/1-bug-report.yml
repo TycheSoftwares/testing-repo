@@ -42,7 +42,7 @@ body:
         3. Scroll down to
         4. See error
     validations:
-      required: false
+      required: true
   - type: textarea
     id: environment
     attributes:
@@ -54,7 +54,7 @@ body:
         The System Status Report is found in your WordPress admin under **WooCommerce > Status**. 
         Please select “Get system report”, then “Copy for support”, and then paste it here.
     validations:
-      required: false
+      required: true
   - type: checkboxes
     id: isolating
     attributes:
