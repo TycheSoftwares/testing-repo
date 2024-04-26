@@ -2,6 +2,8 @@ name: 🐞 Bug Report
 description: Report a bug if something isn't working as expected.
 body:
   - type: markdown
+  validations:
+      required: true
     attributes:
       value: |
          Please provide us with the information requested in this bug report.
