@@ -5,7 +5,7 @@ body:
     attributes:
       value: |
          Please provide us with the information requested in this bug report.
-  - type: checkboxes
+    - type: checkboxes
     id: prerequisites
     attributes:
       label: Prerequisites
@@ -13,7 +13,7 @@ body:
       options:
         - label: I have carried out troubleshooting steps and I believe I have found a bug.
         - label: I have searched for similar bugs in both open and closed issues and cannot find a duplicate.
-    validations:
+    mandatory:
        required: true
   - type: textarea
     id: summary
