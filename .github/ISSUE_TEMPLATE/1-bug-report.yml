@@ -2,8 +2,7 @@ name: 🐞 Bug Report
 description: Report a bug if something isn't working as expected.
 body:
   - type: markdown
-  validations:
-      required: true
+  
     attributes:
       value: |
          Please provide us with the information requested in this bug report.
@@ -13,6 +12,8 @@ body:
      
       label: Prerequisites
       description: Please confirm these before submitting the issue.
+      validations:
+       required: true
       options:
         - label: I have carried out troubleshooting steps and I believe I have found a bug.
         - label: I have searched for similar bugs in both open and closed issues and cannot find a duplicate.
