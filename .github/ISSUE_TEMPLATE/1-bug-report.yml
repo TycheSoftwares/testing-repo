@@ -2,17 +2,14 @@ name: 🐞 Bug Report
 description: Report a bug if something isn't working as expected.
 body:
   - type: markdown
-  
     attributes:
       value: |
          Please provide us with the information requested in this bug report.
   - type: checkboxes
     id: prerequisites
     attributes:
-     
       label: Prerequisites
       description: Please confirm these before submitting the issue.
-     
       options:
         - label: I have carried out troubleshooting steps and I believe I have found a bug.
         - label: I have searched for similar bugs in both open and closed issues and cannot find a duplicate.
