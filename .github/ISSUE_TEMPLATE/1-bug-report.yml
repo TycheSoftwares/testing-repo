@@ -3,7 +3,7 @@ description: Report a bug if something isn't working as expected.
 body:
   - type: markdown
     attributes:
-    value: |
+     value: |
          Please provide us with the information requested in this bug report.
   - type: checkboxes
     id: prerequisites
