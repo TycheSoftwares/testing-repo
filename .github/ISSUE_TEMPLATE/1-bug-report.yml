@@ -10,7 +10,7 @@ body:
     attributes:
       label: Prerequisites
       description: Please confirm these before submitting the issue.
-           options:
+      options:
         - label: I have carried out troubleshooting steps and I believe I have found a bug.
         - label: I have searched for similar bugs in both open and closed issues and cannot find a duplicate.
       mandatory: true
