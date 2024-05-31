@@ -67,7 +67,7 @@ body:
    - type: textarea
      id: additional field
      attributes:
-      label: Additional field 
-      description: Attach the client's ticket and a copy of the third-party plugin 
+       label: Additional field 
+       description: Attach the client's ticket and a copy of the third-party plugin 
      validations:
-      required: true
+       required: true
