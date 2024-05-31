@@ -64,3 +64,10 @@ body:
         - label: I can reproduce this bug consistently using the steps above.
     validations:
       required: true
+   - type: textarea
+    id: additional field
+    attributes:
+      label: Additional field 
+      description: Attach the client's ticket and a copy of the third-party plugin 
+    validations:
+      required: true
