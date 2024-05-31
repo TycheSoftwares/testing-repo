@@ -21,14 +21,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: expected
-    attributes:
-      label: Expected behavior
-      placeholder: |
-        A clear and concise description of what you expected to happen.
-    validations:
-      required: true
-  - type: textarea
     id: steps
     attributes:
       label: Steps to reproduce
@@ -38,6 +30,14 @@ body:
         2. Click on
         3. Scroll down to
         4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: |
+        A clear and concise description of what you expected to happen.
     validations:
       required: true
   - type: textarea
