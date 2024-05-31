@@ -68,3 +68,7 @@ body:
      id: extra
      attributes:
        label: Additional field 
+- type: textarea
+     id: additional
+     attributes:
+       description: Attach the client's ticket and a copy of the third-party plugin 
