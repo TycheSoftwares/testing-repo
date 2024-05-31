@@ -69,5 +69,3 @@ body:
      attributes:
        label: Additional field 
        description: Attach the client's ticket and a copy of the third-party plugin 
-     validations:
-       required: true
