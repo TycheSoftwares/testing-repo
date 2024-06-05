@@ -1,6 +1,6 @@
 name: 🐞 Bug Report
 description: Report a bug if something isn't working as expected.
-label: major
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
