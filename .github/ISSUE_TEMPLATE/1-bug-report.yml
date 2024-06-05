@@ -2,7 +2,7 @@ name: 🐞 Bug Report
 description: Report a bug if something isn't working as expected.
 labels: ["bug"]
 assignees: 
-  - kartik
+  - Kartik
 body:
   - type: markdown
     attributes:
