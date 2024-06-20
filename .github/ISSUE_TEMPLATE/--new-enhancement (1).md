@@ -1,7 +1,7 @@
 ---
 name: "✨ New Enhancement"
 about: Suggest an idea for this project
-title: ''
+title: 'Enhancement'
 labels: enhancement
 assignees: kartikparmar
 
