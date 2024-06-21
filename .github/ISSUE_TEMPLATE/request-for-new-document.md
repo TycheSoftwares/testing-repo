@@ -1,8 +1,8 @@
 ---
-name: Request for New Document
-about: Suggest the creation of a new documentation topic that doesn't exist yet
-title: ''
-labels: documentation
+name: "\U0001F4C4 Request for New Document"
+about: Suggest the creation of a new documentation topic that doesn't exist yet.
+title: "[DOC-REQ]"
+labels: 'type: documentation'
 assignees: ''
 
 ---
@@ -15,7 +15,7 @@ assignees: ''
 
 ## Why is this Document Important?
 
-> Explain why this topic is crucial and how it can benefit.
+> Explain why this topic is crucial and how it can benefit the WooCommerce community.
 
 
 
@@ -28,4 +28,3 @@ assignees: ''
 ## Additional Context
 
 > Add any other context, references, or information that can help in the creation of this new document.
-Blaming
