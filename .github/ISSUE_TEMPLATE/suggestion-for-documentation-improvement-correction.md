@@ -1,8 +1,8 @@
 ---
-name: Suggestion for Documentation Improvement/Correction
-about: Propose a specific improvement or correction for an existing document
-title: ''
-labels: documentation
+name: "\U0001F4DD Suggestion for Documentation Improvement/Correction"
+about: Propose a specific improvement or correction for an existing document.
+title: "[DOC-BUG]"
+labels: 'type: documentation'
 assignees: ''
 
 ---
@@ -15,7 +15,7 @@ assignees: ''
 
 ## Description of the Suggestion
 
-> Describe the changes you suggest to improve or correct the documentation. 
+> Describe the changes you suggest to improve or correct the documentation. Be specific about any errors or areas of confusion you've identified.
 
 
 
